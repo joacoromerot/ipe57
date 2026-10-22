@@ -1,0 +1,96 @@
+[
+  {
+    "id": "saludo",
+    "keywords": ["hola", "buenas", "inicio", "saludos", "buen día", "buenas tardes"],
+    "pregunta": "¿Podés saludarme?",
+    "respuesta": "¡Hola! Soy el asistente informativo del I.P.E.T. Nº 57. Puedo orientarte con información pública de la institución.",
+    "verificada": true
+  },
+  {
+    "id": "especialidades",
+    "keywords": ["especialidades", "qué se puede estudiar", "carreras", "orientaciones", "ramas"],
+    "pregunta": "¿Qué especialidades tiene la escuela?",
+    "respuesta": "Los canales oficiales no están sincronizados: el sitio web publica Programación, Automotores y Electrónica; la página oficial de Facebook también incluye Electricidad. Conviene confirmar la oferta vigente directamente con la escuela.",
+    "verificada": true,
+    "nota": "La diferencia entre el sitio web y Facebook oficial se informa explícitamente para no presentar una lista como definitiva sin confirmación."
+  },
+  {
+    "id": "ubicacion",
+    "keywords": ["dónde queda", "ubicación", "dirección", "cómo llegar", "donde está", "barrio"],
+    "pregunta": "¿Dónde queda el I.P.E.T. Nº 57?",
+    "respuesta": "La institución figura en 25 de Mayo 1500, barrio General Paz, Córdoba.",
+    "verificada": true
+  },
+  {
+    "id": "sitio-oficial",
+    "keywords": ["sitio oficial", "página oficial", "web", "página web", "portal"],
+    "pregunta": "¿Cuál es el sitio oficial?",
+    "respuesta": "Estás en la página informativa del I.P.E.T. Nº 57. Acá podés consultar la institución, las especialidades, los horarios y los datos de contacto.",
+    "verificada": true
+  },
+  {
+    "id": "redes",
+    "keywords": ["facebook", "instagram", "redes sociales", "redes", "contactar por redes"],
+    "pregunta": "¿Cuáles son las redes oficiales?",
+    "respuesta": "Los canales oficiales enlazados por la institución son Facebook: https://www.facebook.com/Ipet57 e Instagram: https://www.instagram.com/ipet_57.",
+    "verificada": true
+  },
+  {
+    "id": "telefono",
+    "keywords": ["teléfono", "telefono", "llamar", "número", "numero", "contacto"],
+    "pregunta": "¿Cuál es el teléfono?",
+    "respuesta": "La página oficial de Facebook publica el teléfono +54 351 433-9170. La ficha de Google Maps compartida muestra otro número, 433-9175; si vas a hacer un trámite, confirmá cuál está vigente con la institución.",
+    "verificada": true,
+    "nota": "El número +54 351 433-9170 está publicado en la página oficial de Facebook; se informa también la discrepancia con Google Maps."
+  },
+  {
+    "id": "email",
+    "keywords": ["correo", "email", "mail", "correo electrónico", "correo electronico"],
+    "pregunta": "¿Cuál es el correo de la escuela?",
+    "respuesta": "La página oficial de Facebook publica el correo escuelapolitecnico10@hotmail.com.",
+    "verificada": true
+  },
+  {
+    "id": "horarios",
+    "keywords": ["horarios", "horario", "hora", "turnos", "clases", "cuándo entro", "cuando entro"],
+    "pregunta": "¿Cuáles son los horarios y turnos?",
+    "respuesta": "El horario de cursado es de lunes a viernes: de 1.º a 4.º, de 7:30 a 13:30; y de 5.º a 7.º, de 13:30 a 20:55.",
+    "verificada": true,
+    "nota": "Horario confirmado por la persona responsable del contenido del sitio."
+  },
+  {
+    "id": "inscripcion",
+    "keywords": ["inscripción", "inscripcion", "inscribirme", "anotarse", "matrícula", "matricula", "ingresar"],
+    "pregunta": "¿Cómo me inscribo?",
+    "respuesta": "No tengo un procedimiento de inscripción confirmado. Para conocer requisitos, fechas y canal vigente, consultá la sección Contacto de esta página o las redes oficiales de la institución.",
+    "verificada": false
+  },
+  {
+    "id": "materias",
+    "keywords": ["materias", "materia", "plan de estudio", "plan", "programa", "qué se ve", "que se ve"],
+    "pregunta": "¿Qué materias tiene cada especialidad?",
+    "respuesta": "No tengo el plan de estudios oficial confirmado. El sitio público consultado identifica las especialidades, pero no publica en esa página el detalle completo de materias.",
+    "verificada": false
+  },
+  {
+    "id": "docentes",
+    "keywords": ["profesores", "profesor", "profe", "docentes", "docente", "maestros"],
+    "pregunta": "¿Cómo contacto a un profesor?",
+    "respuesta": "No tengo un canal docente confirmado. Consultá a la institución por sus canales oficiales para saber cómo comunicarte con el equipo docente.",
+    "verificada": false
+  },
+  {
+    "id": "requisitos",
+    "keywords": ["requisitos", "documentación", "documentacion", "papeles", "edad", "qué necesito", "que necesito"],
+    "pregunta": "¿Qué requisitos necesito para ingresar?",
+    "respuesta": "No tengo requisitos de ingreso confirmados. Verificá la información vigente con la institución antes de presentar documentación, usando la sección Contacto de esta página o sus redes oficiales.",
+    "verificada": false
+  },
+  {
+    "id": "fuentes",
+    "keywords": ["fuentes", "información verdadera", "informacion verdadera", "de dónde sale", "de donde sale", "es oficial"],
+    "pregunta": "¿De dónde salen las respuestas?",
+    "respuesta": "Las respuestas institucionales se basan en el sitio oficial del I.P.E.T. Nº 57 y en el padrón provincial consultado. Cuando un dato no está confirmado, lo aclaro y te derivo a los canales oficiales.",
+    "verificada": true
+  }
+]
